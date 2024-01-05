@@ -17,13 +17,13 @@ JS expressions can be used in the jsx files using curly brackets, for example {}
 
 # File Structure: 
 
-reatExp/
-	 src/
-	    index.js
-	 node_modules/
-	 public/
-                index.html
-	 package.json
+	reatExp/
+		 src/
+		    index.js
+		 node_modules/
+		 public/
+	                index.html
+		 package.json
 
 
   # Installation: 
