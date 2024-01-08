@@ -45,12 +45,12 @@ JS expressions can be used in the jsx files using curly brackets, for example {}
    # index.js
 
      import React from 'react';
-    import ReactDOM from 'react-dom';
+     import ReactDOM from 'react-dom';
 
-  ReactDOM.render(
-  <h1>Hello, Happy New Year!</h1>,
-      document.getElementById('root')
-  );
+     ReactDOM.render(
+	<h1>Hello, Happy New Year!</h1>,
+		document.getElementById('root')
+	);
 
 Create a folder public/ and add index.html in that as shown below
 
