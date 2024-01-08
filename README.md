@@ -192,7 +192,7 @@ We can use Hello component in index.js file as follows:
 	    document.getElementById('root')
 	); 
 
-	![image](https://github.com/anjaliinfo/reactExp/assets/98171488/932b5faf-9d40-4d26-bced-7f70775581e1)  
+![image](https://github.com/anjaliinfo/reactExp/assets/98171488/932b5faf-9d40-4d26-bced-7f70775581e1)  
 
 # Forms Example  
 
